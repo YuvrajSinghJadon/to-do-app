@@ -1,6 +1,6 @@
-# Project Title
+# ----TADA---
 
-[![Netlify Status](https://64c3acdf76ac9774a5114275--heroic-semifreddo-f70560.netlify.app/)]
+![WEBSITE SCREENSHOT](/frontend/src/assets/ss.png)
 
 A simple To-Do List website with database integration.
 
@@ -18,7 +18,7 @@ A simple To-Do List website with database integration.
 
 ## Demo
 
-Link to your live website or demo video.
+visit the website .... if it is still live!! [😬😅](https://64c3acdf76ac9774a5114275--heroic-semifreddo-f70560.netlify.app/)
 
 ## Features
 
